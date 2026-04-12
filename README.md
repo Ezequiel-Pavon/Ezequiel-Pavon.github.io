@@ -1,4 +1,4 @@
-<img width="1912" height="914" alt="website" src="https://github.com/user-attachments/assets/8efec817-88d6-4e3c-b9d4-46981344d297" />
+<img width="1272" height="906" alt="website" src="https://github.com/user-attachments/assets/f2956777-881f-4c26-926b-e6268b9b174a" />
 <br>
 <br>
 https://ezequiel-pavon.github.io/home.html
