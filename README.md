@@ -1,4 +1,4 @@
-<img width="1272" height="906" alt="Howieze" src="https://github.com/user-attachments/assets/c08dbef9-9b83-4c79-a790-7c3180270350" />
+<img width="1912" height="914" alt="website" src="https://github.com/user-attachments/assets/8efec817-88d6-4e3c-b9d4-46981344d297" />
 <br>
 <br>
 https://ezequiel-pavon.github.io/home.html
